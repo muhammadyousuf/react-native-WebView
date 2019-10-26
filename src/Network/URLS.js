@@ -1,0 +1,1 @@
+export const baseURL = 'http://odessu.com:5000/';
